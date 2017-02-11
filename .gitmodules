@@ -1,0 +1,3 @@
+[submodule "Reproduction/external/dbus-sharp"]
+	path = Reproduction/external/dbus-sharp
+	url = https://github.com/Tragetaschen/dbus-sharp
